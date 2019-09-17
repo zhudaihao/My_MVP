@@ -1,0 +1,1 @@
+include ':app', ':isolation_network_processor', ':text_net', ':isolation_image_processor'
